@@ -32,3 +32,7 @@ This repo is to store notes from the cours of MichiganX using Azure and SQL
 
 ![year correct, winners](https://user-images.githubusercontent.com/70437668/154830765-9c2b42ed-5ec2-4838-9b1d-3d67a759d473.jpg)
 
+### Credit Card dataset:
+
+#### Overview:
+![Credit Card dataset overview](https://user-images.githubusercontent.com/70437668/154831885-4ac4153a-6946-4ae0-8ba4-3de877b12e30.jpg)
