@@ -35,7 +35,8 @@ This repo is to store notes from the cours of MichiganX using Azure and SQL
 ### Credit Card dataset:
 
 #### Overview:
-![Credit Card dataset overview](https://user-images.githubusercontent.com/70437668/154831885-4ac4153a-6946-4ae0-8ba4-3de877b12e30.jpg)
+
+![Credit Card dataset nuggets](https://user-images.githubusercontent.com/70437668/154832386-ca37a3df-6f25-4fce-a54b-3849976aa8e8.jpg)
 
 ##### High School:
 
@@ -43,4 +44,18 @@ This repo is to store notes from the cours of MichiganX using Azure and SQL
 
 ![High School 2](https://user-images.githubusercontent.com/70437668/154832076-140ed7df-a527-453d-a763-884d2cc40b6a.jpg)
 
+![High School dot plot](https://user-images.githubusercontent.com/70437668/154832371-2f72273a-6785-4327-9056-79361fd89770.jpg)
+
+![High School corr](https://user-images.githubusercontent.com/70437668/154832392-7743204b-cd8d-4a34-875e-ddde38eb3c62.jpg)
+
 ##### Masters:
+
+![Masters ](https://user-images.githubusercontent.com/70437668/154832372-1c27491c-180a-484c-a8cd-24ae7a681121.jpg)
+
+![Masters 2](https://user-images.githubusercontent.com/70437668/154832375-16ba96e4-2d99-4641-acbf-8030b8e79de3.jpg)
+
+![Masters dot plot](https://user-images.githubusercontent.com/70437668/154832382-25b04989-8971-41b9-adf1-283d488c96e7.jpg)
+
+![Masters corr](https://user-images.githubusercontent.com/70437668/154832393-59b23e12-d803-42bf-a39d-e3720576f4dc.jpg)
+
+
