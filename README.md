@@ -1,0 +1,1 @@
+# Azure-SQL-MichiganX-Introduction-to-Data-Analytics-for-Managers
