@@ -58,4 +58,10 @@ This repo is to store notes from the cours of MichiganX using Azure and SQL
 
 ![Masters corr](https://user-images.githubusercontent.com/70437668/154832393-59b23e12-d803-42bf-a39d-e3720576f4dc.jpg)
 
+## Descriptive 
+
+Standard reports are reports that are either constantly evaluated, or with very regular periodicity. Let's say, every quarter, or every week, or every month. So that a bunch of KPIs that you're looking at, let's say every month. You're looking at your sales every month. And you're looking at your cost of goods sold, or your sales and administrative expenses, every month. That is what we'd call a standard report.
+
+There are ad hoc reports. This is descriptive data collected on a one time, or a special case basis. So that you can understand something in the moment. A special project that you're doing to try and, let's say, launch a new product. That may require one or more ad hoc reports. And so, here you see an example of a dashboard, that has many of these things already inside it, right? You have your visuals and your quants. You have your standard reports, such as the budget and the finance marketing sales. The expenses by different categories, and so on. You also have the ability to drill down. Drill down is the idea that you go deeper into some specific aspects, or pieces, of your data.
+
 
