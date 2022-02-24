@@ -14,52 +14,52 @@ This repo is to store notes from the cours of MichiganX using Azure and SQL
 
 ## Data Analysis:
 
-`
+```
 select movie_title
 from t1
 where title_year = 2016;
-`
+```
 ![Basic Sql](https://user-images.githubusercontent.com/70437668/154830738-e8f465a6-0229-46c0-b876-263eaa157a55.jpg)
 
-`
+```
 select avg(gross), avg(imdb_score)
 from t1
 where title_year = 2016
 and gross > 0;
-`
+```
 
 ![avg](https://user-images.githubusercontent.com/70437668/154830740-5e0259fc-b331-4649-828b-47660c400ade.jpg)
 
-`
+```
 select distinct movie_title, gross, imdb_score
 from t1
 where title_year = 2016
 and genres like "%Comedy%";
-`
+```
 
 ![comedy](https://user-images.githubusercontent.com/70437668/154830743-d2c561ee-ad22-4559-be64-9fef3f4a9760.jpg)
 
-`
+```
 select distinct movie_title, gross, imdb_score
 from t1
 where title_year = 2016
 and genres like "%!Comedy%";
-`
+```
 ![not comedy](https://user-images.githubusercontent.com/70437668/154830749-370358b8-d5da-463b-b80f-6ccf5c4cc3c8.jpg)
 
-`
+```
 select title_year, avg(gross)
 from t1
 group by title_year;
-`
+```
 ![group by year](https://user-images.githubusercontent.com/70437668/154830752-fadeadd8-cd20-415a-93b7-39e173869327.jpg)
 
-`
+```
 select title_year, content_rating, avg(gross)
 from t1
 where title_year >= 2000
 group by title_year, content_rating;
-`
+```
 
 ![group by year, content rating](https://user-images.githubusercontent.com/70437668/154830753-5869fc6a-f9ab-404c-a2f7-6f411943d27c.jpg)
 
